@@ -15,3 +15,7 @@ Although AT&T has been manually identifying and marking spam messages for a whil
 ## Objectives
 
 The project objective is to develop a spam detection system capable of automatically identifying and flagging spam messages based solely on their content.
+
+## Video presentation
+
+https://share.vidyard.com/watch/K7npCjDGRi3XYcD35KmHA9?
