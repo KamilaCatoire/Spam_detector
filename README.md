@@ -18,4 +18,4 @@ The project objective is to develop a spam detection system capable of automatic
 
 ## Video presentation
 
-https://share.vidyard.com/watch/K7npCjDGRi3XYcD35KmHA9?
+https://share.vidyard.com/watch/K7npCjDGRi3XYcD35KmHA9?/
